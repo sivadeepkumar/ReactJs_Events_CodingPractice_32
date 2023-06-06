@@ -1,0 +1,25 @@
+.main-container {
+  height: 100vh;
+  padding: 25px;
+  background-color: #323f4b;
+  width: 1200px;
+  color: #f8fafc;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.header {
+  padding-left: 50px;
+}
+
+.each-card {
+  padding: 20px;
+  font-size: 16px;
+}
+.img-in-card {
+  width: 300px;
+  height: 160px;
+}
